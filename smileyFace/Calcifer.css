@@ -1,0 +1,50 @@
+.wrapper {
+    margin: 5px;
+    position: relative;
+}
+.flamered {
+    height:125px;
+    width: 125px;
+    position: relative;
+    top: -60px;
+    left: 50px; 
+    margin: 30px 70px;
+    border-radius: 0% 40% 60% 40%;
+    transform: rotateZ(45deg);
+    filter: drop-shadow(0 0 10px orangered);
+    background-color: orangered;
+}
+.flameorange {
+    height: 95px;
+    width: 95px;
+    position: relative;
+    top: 52px;
+    left: 2px;
+    margin: 30px 70px;
+    border-radius: 0% 50% 70% 50%;
+    transform: rotateZ(45deg);
+    filter: drop-shadow(0 0 10px orange);
+    background-color: orange;
+}
+.lefteye {
+    width: 15px;
+    height: 15px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    left: 32px;
+    top: 26px;
+    background-color: white;
+}
+.righteye {
+    width: 15px;
+    height: 15px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    left: 54px;
+    top: 18px;
+    background-color: white;
+}
