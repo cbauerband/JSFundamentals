@@ -1,0 +1,28 @@
+h1 {
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 32;
+}
+h2 {
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+h3 {
+    display: inline-block;
+    
+}
+p {
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.container {
+   background-image: url(https://lightyrp.weebly.com/uploads/2/8/6/2/28626389/hulu1_orig.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#login {
+    float: right;
+}
